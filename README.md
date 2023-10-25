@@ -47,5 +47,7 @@
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahber-hussain83&show_icons=true&theme=dark&title_color=f5f0f0&text_color=efebeb&locale=en&layout=compact" alt="rahber-hussai83" /></p>
 <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rahber83&theme=vue-dark)](https://git.io/streak-stats)
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahber83&show_icons=true&theme=dark&title_color=f3ecec&text_color=ebe5e5&locale=en" alt="Rahber83" /></p>
 <br>
