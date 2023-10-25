@@ -14,7 +14,7 @@
 
 - 🧑‍💻 IDE's ✨ **`Visual-Studio-Code - IntelliJ`** ✨
 
-- 📫 How to reach me 📧📧**rahber.hussain83@gmail.com**📧📧
+- 📫 How to reach me 📧📧 **rahber.hussain83@gmail.com** 📧📧
 
 - ⚡ Fun fact about Me :🌟 **Apart from learning, I love to play `Football`, watching `Games-Movies-Series and many more...!!`**🎆⚽🎮💻
 <br><br>
@@ -48,9 +48,9 @@
 <br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rahber83&theme=vue-dark" alt="GitHub Streak" /></a>
 <br>
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahber-hussain83&show_icons=true&theme=dark&title_color=f5f0f0&text_color=efebeb&locale=en&layout=compact" alt="rahber-hussai83" /></p>
 <br>
-
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahber83&show_icons=true&theme=dark&title_color=f3ecec&text_color=ebe5e5&locale=en" alt="Rahber83" /></p>
 <br>
