@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rahber Hussain</h1>
+<h1 align="center">Hi 👋, My name is Rahber Hussain ✨</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=✨+Full+Stack+Web+Developer..<3+✨"></a>
 </p>
-<h3 align="center">A passionate developer and learner from India.</h3> 
+<h3 align="center">A passionate <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=18&center=true&vCenter=true&width=95&height=18&lines=✨+Developer+✨"></a> and learner from India.</h3> 
 <h3 align="center">I love learning new techs and using new tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahber-hussain83&label=Profile%20views&color=0e75b6&style=flat" alt="rahber-hussain83" /> </p><br>
@@ -25,7 +25,7 @@
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-<p align="left"> 
+<p align="center"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/800px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="70" height="50"/> </a> 
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" alt="babel" width="100" height="80"/> 
 </a> 
@@ -35,7 +35,7 @@
 </p>
 </div>
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-<p align="left"> 
+<p align="center"> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/7/7e/Express_Clothing_Logo.SVG" alt="express" width="100" height="80"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="80"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="80"/> </a>
@@ -44,7 +44,7 @@
 </p>
 </div>
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-<p align="left"> 
+<p align="center"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> 
@@ -54,6 +54,12 @@
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="80" height="80"/> </a> 
 </p>
 </div>
+<br>
+<br>
+
+### Holopin Dashboard's  
+[![An image of @rahber83's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahber83)](https://holopin.io/@rahber83)
+[![An image of @rahber_08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahber_08)](https://holopin.io/@rahber_08)
 <br>
 <br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rahber83&theme=vue-dark" alt="GitHub Streak" /></a>
