@@ -45,7 +45,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a> 
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="80" height="80"/> </a> </p>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahber-hussain83&show_icons=true&theme=dark&title_color=f5f0f0&text_color=efebeb&locale=en&layout=compact" alt="rahber-hussain83" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahber83&show_icons=true&theme=dark&title_color=f5f0f0&text_color=efebeb&locale=en&layout=compact" alt="rahber-hussain83" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahber-hussain83&show_icons=true&theme=dark&title_color=f3ecec&text_color=ebe5e5&locale=en" alt="rahber-hussain83" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahber83&show_icons=true&theme=dark&title_color=f3ecec&text_color=ebe5e5&locale=en" alt="rahber-hussain83" /></p>
 <br>
