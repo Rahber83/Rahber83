@@ -8,15 +8,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahber-hussain83&label=Profile%20views&color=0e75b6&style=flat" alt="rahber-hussain83" /> </p><br>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- <strong>🌱 I’m currently learning</strong> <h3> -  **`DevOps - React.js - and - Many More`**</h3>
+- <strong>🌱 I’m currently learning</strong> <strong> -  **`DevOps - React.js - and - Many More`**</strong>
 
-- <strong>💬 Ask me about 🎆🎆</strong> **<h4> - **`React.js - Node.js - JavaScript - Html - Css - OOP's`**</h4> 🎆🎆
+- <strong>💬 Ask me about 🎆🎆</strong> <strong> - **`React.js - Node.js - JavaScript - Html - Css - OOP's`**</strong> 🎆🎆
 
-- <strong>🧑‍💻 IDE's ✨</strong> <h4> - **`Visual-Studio-Code - IntelliJ`**</h4> ✨
+- <strong>🧑‍💻 IDE's ✨</strong> <strong> - **`Visual-Studio-Code - IntelliJ`**</strong> ✨
 
 - <strong>📫 How to reach me</strong> <h3> - 📧📧 **rahber.hussain83@gmail.com** 📧📧</h3>
 
-- ⚡ Fun fact about Me :<h4> - 🌟 **Apart from learning, I love to play `Football`, watching `Games-Movies-Series and many more...!!`**🎆⚽🎮💻</h4>
+- ⚡ Fun fact about Me :<strong> - 🌟 **Apart from learning, I love to play `Football`, watching `Games-Movies-Series and many more...!!`**🎆⚽🎮💻</strong>
 <br><br>
 
 
