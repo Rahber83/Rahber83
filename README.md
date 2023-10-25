@@ -2,22 +2,27 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=✨+Full+Stack+Web+Developer..<3+✨"></a>
 </p>
-<h3 align="center">A passionate <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=18&center=true&vCenter=true&width=95&height=18&lines=✨+Developer+✨"></a> and learner from India.</h3> 
+<h3 align="center">A passionate Developer and learner from India.</h3> 
 <h3 align="center">I love learning new techs and using new tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahber-hussain83&label=Profile%20views&color=0e75b6&style=flat" alt="rahber-hussain83" /> </p><br>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- <strong>🌱 I’m currently learning</strong> <strong> -  **`DevOps - React.js - and - Many More`**</strong>
+- <strong>🌱 I’m currently learning</strong> <strong>
+   -  **`DevOps - React.js - and - Many More`**</strong>
 
-- <strong>💬 Ask me about 🎆🎆</strong> <strong> - **`React.js - Node.js - JavaScript - Html - Css - OOP's`**</strong> 🎆🎆
+- <strong>💬 Ask me about 🎆🎆</strong> <strong>
+   - **`React.js - Node.js - JavaScript - Html - Css - OOP's`**</strong> 🎆🎆
 
-- <strong>🧑‍💻 IDE's ✨</strong> <strong> - **`Visual-Studio-Code - IntelliJ`**</strong> ✨
+- <strong>🧑‍💻 IDE's ✨</strong> <strong>
+   - **`Visual-Studio-Code - IntelliJ`**</strong> ✨
 
 - <strong>📫 How to reach me</strong> <h3> - 📧📧 **rahber.hussain83@gmail.com** 📧📧</h3>
 
-- ⚡ Fun fact about Me :<strong> - 🌟 **Apart from learning, I love to play `Football`, watching `Games-Movies-Series and many more...!!`**🎆⚽🎮💻</strong>
-<br><br>
+- ⚡ Fun fact about Me :<strong>
+   - 🌟 **Apart from learning, I love to play** **`Football`** , watching `Games-Movies-Series and many more...!!` 🎆⚽🎮💻</strong>
+<br>
+<br>
 
 
 
