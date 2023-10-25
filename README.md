@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, My name is Rahber Hussain ✨</h1>
+<h1 align="center" style="color: white">Hi 👋, My name is Rahber Hussain ✨</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=✨+Full+Stack+Web+Developer..<3+✨"></a>
 </p>
-<h3 align="center">A passionate Developer and learner from India.</h3> 
-<h3 align="center">I love learning new techs and using new tools.</h3>
+<h3 align="center"> A passionate Developer and learner from India. </h3>
+<h3 align="center"> I love learning new techs and using new tools. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahber-hussain83&label=Profile%20views&color=0e75b6&style=flat" alt="rahber-hussain83" /> </p><br>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -24,7 +24,12 @@
 <br>
 <br>
 
+### Hi 👋, I'm a Self-motivated IT professional with deep knowledge and proficiency in `Node.js` , `React.js` , `JavaScript` , `Rest API development` , `databases` , as well as highly potent skills and ability in writing clean and efficient code. I am ready to make an impact and hit the ground running from day one. I aim to undertake challenging tasks and thrive in a highly motivated environment, thereby enriching my skills and becoming an indispensable asset to the organization.
 
+## CERTIFICATES:
+#### `Node.js` API Masterclass With Express and MongoDB
+#### `React.JS` Certificate.
+#### `The Data` Analyst Course.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
 <br>
